@@ -61,7 +61,21 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    Typescript
+                    Docker
+                  </p>
+                </div>
+              </motion.div>
+              <motion.div
+                whileHover={{ scale: 0.96 }}
+                className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
+              >
+                <div
+                  className={`bg-[#0d0d6b]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
+                >
+                  <p
+                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
+                  >
+                   Typescript
                   </p>
                 </div>
               </motion.div>
@@ -144,7 +158,7 @@ const Skills = () => {
                   <p
                     className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
                   >
-                    FasAPI
+                    FastAPI
                   </p>
                 </div>
               </motion.div>
@@ -162,8 +176,52 @@ const Skills = () => {
                   </p>
                 </div>
               </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 0.96 }}
+                className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
+              >
+                <div
+                  className={`bg-[#0d0d6b]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
+                >
+                  <p
+                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
+                  >
+                    HTML
+                  </p>
+                </div>
+              </motion.div>
              
+              <motion.div
+                whileHover={{ scale: 0.96 }}
+                className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
+              >
+                <div
+                  className={`bg-[#0d0d6b]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
+                >
+                  <p
+                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
+                  >
+                   CSS & Tailwind
+                  </p>
+                </div>
+              </motion.div>
             
+              <motion.div
+                whileHover={{ scale: 0.96 }}
+                className="bg-gradient-to-b max-w-[369px]  lg:max-w-[252px] to-[#C8C8C880] from-[#C5F4FF00] pb-0.5 pl-0.5"
+              >
+                <div
+                  className={`bg-[#0d0d6b]  px-[20px] py-[23px] lg:h-[100px] lg:max-w-full lg:w-[250px] lg:px-[32px] lg:py-[35px]`}
+                >
+                  <p
+                    className={`text-white font-medium font-clash lg:text-[20px] lg:leading-[30.75px] `}
+                  >
+                   Javascript
+                  </p>
+                </div>
+              </motion.div>
+
             </div>
             {/* <div
               className={`mt-[31px] grid w-full grid-cols-1 md:grid md:grid-cols-2 md:space-y-0 md:gap-3 space-y-[18.67px] lg:mt-[36px] lg:grid-cols-3 lg:space-y-0 lg:gap-[24px]`}
