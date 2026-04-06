@@ -1,4 +1,4 @@
-# 0xria's- Personal Portfolio Website
+# ria.shx's - Personal Portfolio Website
 
 ![0xria's Portfolio Screenshot](/public/images/cover.png)
 
@@ -39,7 +39,7 @@ Feel free to customize this portfolio to showcase your own projects and skills. 
 If you have any questions or would like to get in touch, you can reach me at:
 
 - Email: gloria.u.samuel@gmail.com
-- GitHub: [Gloria Samuel](https://github.com/0xria)
+- GitHub: [Gloria Samuel](https://github.com/riashx)
 - Portfolio: [preview]: https://0xria.vercel.app/
 
 ## Todos
